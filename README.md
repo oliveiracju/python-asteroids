@@ -7,11 +7,21 @@ Simples asteroid game built to practice some python concepts
 In order to play the game
 
 use:
-``` make setup 
+
+```
+make setup
+```
+
 In order to setup a virtual env and install the requirements
 
-``` make run
+``` 
+make run 
+```
+
 To start the game
 
-``` make clean
+``` 
+make clean 
+```
+
 To clean the virtual env
